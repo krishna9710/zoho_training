@@ -66,7 +66,6 @@ void pop()
 }
 
 
-
 //function for displaying elements in the stack
 void display()
 {
